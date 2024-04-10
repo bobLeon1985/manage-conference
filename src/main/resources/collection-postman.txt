@@ -1,0 +1,2 @@
+curl --location --request GET 'http://localhost:8080/manage-conference/v1/api/process' \
+--form 'fileParts=@"/C:/Users/DELL/Documents/DESARROLLOS/LJ/Backend/spf-msa-sales-system/src/main/resources/test_input.txt"'

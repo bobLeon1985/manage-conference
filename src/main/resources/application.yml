@@ -1,0 +1,27 @@
+info:
+  project:
+    name: msa-manage-conference
+    version: 1.0.0
+spring:
+  application:
+    name: msa-manage-conference
+  header:
+    channel: digital
+    medium: web
+  web-flux:
+    base-path: /manage-conference/v1
+  profiles:
+    active:
+      - development
+
+
+ 
+
+
+
+ 
+
+
+
+
+ 
